@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+.logo {
+  width: 100px;
+  padding-top: 15px;
+  margin-right: 450px;
+  margin-left: 50px;
+  display: inline-block;
+}
+
+.cabecera {
+  display: inline-block;
+  background-color: rgb(163, 132, 90);
+  width: 100px;
+  height: 50px;
+  padding: 15px;
+  margin-right: 5px;
+}
+
+header {
+  background-color: antiquewhite;
+  height: 100px;
+  padding-top: 15px;
+}
+
+.rectangle {
+  display: inline-block;
+  background-color: antiquewhite;
+  width: 300px;
+  height: 200px;
+  margin: 30px;
+  margin-top: 60px;
+  margin-bottom: 10px;
+}
+
+.contents {
+  margin-left: 60px;
+}
+
+.text {
+  display: inline-block;
+  background-color: burlywood;
+  padding: 15px;
+  margin-right: 100px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+}
+.rrss {
+  background-color: antiquewhite;
+  width: 100px;
+  height: 50px;
+  padding: 15px;
+  padding-left: 30px;
+  margin-left: 550px;
+  margin-bottom: 30px;
+}
+
+.privacity {
+  background-color: antiquewhite;
+  width: 400px;
+  height: 150px;
+  padding: 15px;
+  padding-left: 170px;
+  padding-top: 65px;
+  margin-left: 400px;
+  margin-bottom: 30px;
+}
+
+.button {
+  background-color: antiquewhite;
+  width: 300px;
+  height: 50px;
+  padding: 15px;
+  padding-left: 110px;
+  margin-left: 450px;
+  margin-bottom: 30px;
+}
